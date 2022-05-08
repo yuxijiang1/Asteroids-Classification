@@ -1,4 +1,4 @@
-## Asteroids-Classification
+## Asteroids Classification
 
 In this project, we will work with a Kaggle dataset that contains Asteroid data from the NASA API. The "NASA: Asteroids Classification" dataset provides
 data on measurements and characteristics for 4,687 asteroids. Our goal to identify potential hazardous and non-hazardous asteroid bodies from the data 
