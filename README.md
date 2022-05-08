@@ -19,7 +19,7 @@ asteroid’s orbit relative to Earth and the Sun by looking at variables such
 as Miss Distance, Perihelion Distance, and Aphelion Distance.
 - Binary indication of hazardous or non-hazardous state.
 
-## Project summary
+## Project Summary
 
 - Data cleaning
 - Remove Multicollinearity
