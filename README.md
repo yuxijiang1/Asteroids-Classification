@@ -1,6 +1,6 @@
 ## Asteroids Classification
 
-In this project, we will work with a Kaggle dataset that contains Asteroid data from the NASA API. The "NASA: Asteroids Classification" dataset provides
+In this project, we worked with a Kaggle dataset that contains Asteroid data from the NASA API. The "NASA: Asteroids Classification" dataset provides
 data on measurements and characteristics for 4,687 asteroids. Our goal is to identify potential hazardous and non-hazardous asteroid bodies from the data 
 given, applying methods such as ridge regression and other statistical machine learning methods. Secondly, through trying various methods, we hope to 
 pinpoint the method that is optimized for our goal of predicting potential hazardous asteroids.
